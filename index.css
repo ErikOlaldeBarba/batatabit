@@ -1,0 +1,43 @@
+:root{
+    /* fonts */
+    --primary-font: 'DM Sans', sans-serif;
+    --second-font: 'Inter', sans-serif;
+
+    --bitcoin-orange:#F7931A ;
+    --soft-orange:#ffe9d5;
+    --secondary-blue:#1a9af7;
+    --soft-blue:#e7f5ff;
+    --warm-black:#201e1c;
+    --black:#282623;
+    --grey:#bababa;
+    --off-white:#FAF8F7;
+    --just-white:#FFF;
+}
+
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: var(--primary-font);
+}
+
+
+.primary-font{
+    font-family: 'DM Sans', sans-serif;
+}
+
+.primary-font{
+    font-family: 'Inter', sans-serif;
+}
+
+/* 
+    1.  Posicionamiento
+    2. Modelo caja (Box model)
+    3. Tipografía
+    4. Visuales
+    5. Otros
+*/
